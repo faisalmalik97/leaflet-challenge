@@ -1,2 +1,2 @@
 # leaflet-challenge
-Map.png
+
